@@ -4,14 +4,17 @@ sitemap:
 exclude: 'yes'
 ---
 
+# humanstxt.org/
+# The humans responsible & technology colophon
+
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+Stefan Acin
+Twitter: @stefanacin
+Site: http://stefan.acin.io
+Location: Barcelona
 						
 /* THANKS */
-Name: Dale Anthony
+Name: Josh Gerdes [http://joshgerdes.com]
 
 /* SITE */
 Last update: {{ site.time | date: "%Y/%m/%d" }}
