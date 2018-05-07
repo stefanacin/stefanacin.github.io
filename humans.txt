@@ -1,13 +1,20 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
 
-# TEAM
+/* TEAM */
+Developer & Designer: Josh Gerdes
+Twitter: @joshgerdes
+Site: http://joshgerdes.com
+Location: Minneapolis, MN, USA
+						
+/* THANKS */
+Name: Dale Anthony
 
-    Stefan Acin -- Developer -- @stefanacin
-
-# TECHNOLOGY COLOPHON
-
-    Jakyll
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
-    three.js, HTML Boilerplate
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
