@@ -16,7 +16,7 @@
 
 title: Stefan Acin
 description: > # this means to ignore newlines until "baseurl:"
-  Engineer - Always learning, always making.
+  AI Engineer - Always learning, always making.
 # permalink: none
 url: 'http://stefan.acin.io'  # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: '/jekyll-uno'  # the subpath of your site, e.g. /blog
