@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Stefan Acin
+Twitter: @stefanacin
+Site: http://stefan.acin.io
+Location: Barcelona, Es
+						
+/* THANKS */
+Name: Josh Gerdes [http://joshgerdes.com]
+
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
